@@ -1,5 +1,7 @@
 <?php
-
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\TaskController;
+use App\Http\Controllers\FolderController;
 use Illuminate\Support\Facades\Route;
 
 /*
