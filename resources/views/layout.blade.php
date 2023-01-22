@@ -12,7 +12,7 @@
 <body>
 <header>
   <nav class="my-navbar">
-    <a class="my-navbar-brand" href="/">ToDo App</a>
+    <a class="my-navbar-brand" href="https://bucketlists.shop/ToDo/public">ToDo App</a>
     <div class="my-navbar-control">
       @if(Auth::check())
         <span class="my-navbar-item">ようこそ, {{ Auth::user()->name }}さん</span>
