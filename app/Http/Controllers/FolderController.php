@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 //↓追加
-use App\Folder;
+use App\Models\Folder;
 use App\Http\Requests\CreateFolder;
 use Illuminate\Support\Facades\Auth;
 
