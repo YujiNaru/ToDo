@@ -6,7 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>ToDo App</title>
   @yield('style')
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://bucketlists.shop/ToDo/public/css/style.css">
+<!--<link rel="stylesheet" href="css/style.css">-->
 </head>
 <body>
 <header>
