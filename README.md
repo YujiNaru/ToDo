@@ -18,9 +18,12 @@
  3.seederを行うことでテストユーザーが登録されます。
  
  ====================================
+ 
  メールアドレス:dummy@email.com
+ 
  パスワード:test1234
  
+ ====================================
 
 ## 参考文献
 https://www.hypertextcandy.com/laravel-tutorial-introduction/
